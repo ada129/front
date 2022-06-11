@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03fef405-0bf6-48bf-91f9-e7151f289a98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/caseH.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/instance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccuseD.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CasE.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CasesList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CasesSearch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CreatE.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DelO.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DeletE.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EdiT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExperT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ExpertisE.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/JurrY.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LawyeR.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoadeR.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LogiN.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LogouT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PolocE.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PrinT.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SideBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VictiM.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WittnesS.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plagins/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vies/CaseH.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vies/DashBoard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vies/EditC.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2A2Afxnl4maWyne4fQXcrBxOC6k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/WebstormProjects/untitled",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\JetBrains\\WebStorm 2022.1.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.npm serve">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm serve" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03fef405-0bf6-48bf-91f9-e7151f289a98" name="Changes" comment="" />
+      <created>1654197413415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654197413415</updated>
+      <workItem from="1654197414608" duration="736000" />
+      <workItem from="1654255857197" duration="2527000" />
+      <workItem from="1654427689505" duration="26625000" />
+      <workItem from="1654487581875" duration="10749000" />
+      <workItem from="1654499518557" duration="1833000" />
+      <workItem from="1654506193502" duration="14377000" />
+      <workItem from="1654524349109" duration="5109000" />
+      <workItem from="1654546041619" duration="2434000" />
+      <workItem from="1654584384427" duration="4684000" />
+      <workItem from="1654595068107" duration="5937000" />
+      <workItem from="1654615119613" duration="3420000" />
+      <workItem from="1654625098567" duration="9692000" />
+      <workItem from="1654659385963" duration="12185000" />
+      <workItem from="1654672727533" duration="148000" />
+      <workItem from="1654674694393" duration="13390000" />
+      <workItem from="1654696470354" duration="4431000" />
+      <workItem from="1654708239795" duration="15222000" />
+      <workItem from="1654743391041" duration="3632000" />
+      <workItem from="1654753017178" duration="8110000" />
+      <workItem from="1654784186691" duration="9587000" />
+      <workItem from="1654801742309" duration="1776000" />
+      <workItem from="1654835192164" duration="14539000" />
+      <workItem from="1654854270894" duration="2574000" />
+      <workItem from="1654864850831" duration="6386000" />
+      <workItem from="1654918578680" duration="3205000" />
+      <workItem from="1654934581963" duration="6013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
